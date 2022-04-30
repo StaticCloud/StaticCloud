@@ -1,7 +1,7 @@
 <h1>✨ Welcome to my GitHub page! ✨</h1>
 
 <h2>About Me :raising_hand:</h2>
-<p>My name is StaticCloud! I'm a full-stack web developer from Vancouver, WA. My skillset includes:</p>
+<p>My name is StaticCloud! I'm a full-stack web developer from Camas, WA. My skillset includes:</p>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
