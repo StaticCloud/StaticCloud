@@ -9,7 +9,7 @@
   <li>jQuery</li>
   <li>Node.js</li>
   <li>Express</li>
-  <li>MySQL2</li>
+  <li>MySQL</li>
   <li>Handlebars</li>
   <li>React</li>
   <li>Mongoose</li>
