@@ -1,22 +1,12 @@
-<h1>✨ Welcome to my GitHub page! ✨</h1>
+<h1>Welcome to my GitHub page!</h1>
 
-<h2>About Me :raising_hand:</h2>
-<p>My name is StaticCloud! I'm a full-stack web developer from Camas, WA. My skillset includes:</p>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>jQuery</li>
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>MySQL</li>
-  <li>Handlebars</li>
-  <li>React</li>
-  <li>Mongoose</li>
-  <li>Redux</li> 
-</ul>
+<h2>About Me</h2>
 
-<p>I'm passionate about building my own web applications as well as well as leveraging my skillset by learning more about web development. I'm a team player and I also love working with others. I'm more than willing to listen to feedback from peers and customers alike, and I'm also more than happy to share feedback of my own.</p>
+Hi, I'm Diego Marrs! I'm a full-stack web developer from Camas, WA. I'm passionate about building solid user experience that provides valuable utility to those who use it.
 
+<h2>Technical Skills</h2>
 
-<h2>Check out my pinned repositories below! :pushpin:</h2>
+<b>Languages</b> | JavaScript | HTML | CSS | Node.js | SQL | MongoDB <br>
+<b>Frameworks & Libraries</b> | Bootstrap | Bulma | Jest | Express.js | Handlebars | Sequelize | Mongoose |
+React.js | Apollo Server | Apollo Client | GraphQL | Redux <br>
+<b>Tools</b> | Heroku | Git | Insomnia
