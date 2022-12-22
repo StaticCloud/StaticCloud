@@ -9,4 +9,4 @@ Hi, I'm Diego Marrs! I'm a full-stack web developer from Camas, WA. I'm passiona
 <b>Languages:</b> JavaScript | HTML | CSS | Node.js | SQL | MongoDB <br>
 <b>Frameworks & Libraries:</b> Bootstrap | Bulma | Jest | Express.js | Handlebars | Sequelize | Mongoose |
 React.js | Apollo Server | Apollo Client | GraphQL | Redux <br>
-<b>Tools:</b> | Heroku | Git | Insomnia | Webpack
+<b>Tools:</b> Heroku | Git | Insomnia | Webpack
