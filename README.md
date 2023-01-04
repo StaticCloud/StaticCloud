@@ -27,4 +27,5 @@ Hi, I'm Diego Marrs! I'm a full-stack web developer from Camas, WA. I'm proficie
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
