@@ -2,7 +2,7 @@
 
 <h2>About Me 👨‍💻</h2>
 
-Hi, I'm Diego Marrs! I'm a full-stack web developer from the Portland, OR area. I'm proficient with the MERN stack and I'm passionate about building solid user experience that provides valuable utility to those who use it.
+Hi, I'm Diego Marrs! I'm a full stack web developer from the Portland, OR area. I'm proficient with the MERN stack and I'm passionate about web development and continiously learning new technlogies.
 
 <h2>Technical Skills 💻</h2>
 
