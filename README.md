@@ -29,3 +29,9 @@ Hi, I'm Diego Marrs! I'm a full stack web developer from the Portland, OR area. 
   <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+
+<h2>Stats</h2>
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=staticcloud&theme=codeSTACKr&show_icons=true)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticcloud&theme=codeSTACKr&show_icons=true&layout=compact">
+</div>
