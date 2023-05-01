@@ -1,10 +1,10 @@
-<h1>Hi, I'm Diego Marrs! 👋</h1>
+<h1 align="center">Hi, I'm Diego Marrs! 👋</h1>
 
-<h2>About Me 👨‍💻</h2>
+<h3>About Me 👨‍💻</h3>
 
 Hi, I'm Diego Marrs! I'm a full stack web developer from the Portland, OR area. I'm proficient with the MERN stack and I'm passionate about web development and continiously learning new technlogies.
 
-<h2>Technical Skills 💻</h2>
+<h3>Technical Skills 💻</h3>
 
 <details>
   <summary>👨‍💻 Languages</summary>
@@ -42,7 +42,7 @@ Hi, I'm Diego Marrs! I'm a full stack web developer from the Portland, OR area. 
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </details>
 
-<h2>Stats 💪</h2>
+<h3>Stats 💪</h3>
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=staticcloud&theme=codeSTACKr&show_icons=true)">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticcloud&theme=codeSTACKr&show_icons=true&layout=compact">
