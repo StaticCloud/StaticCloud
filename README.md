@@ -44,6 +44,5 @@ Hi, I'm Diego Marrs! I'm a full stack web developer from the Portland, OR area. 
 
 <h3>Stats 💪</h3>
 <div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=staticcloud&theme=codeSTACKr&show_icons=true)">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticcloud&theme=codeSTACKr&show_icons=true&layout=compact">
 </div>
