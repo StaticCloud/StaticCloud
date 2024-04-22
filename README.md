@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Diego Marrs! 👋</h1>
-<div align="center">
+<h1>Hi, I'm Diego Marrs! 👋</h1>
+
 <h3>About Me 👨‍💻</h3>
 
-Hi, I'm Diego Marrs! I'm a full stack web developer from the Portland, OR area. I'm proficient with the MERN stack and I'm passionate about web development and continiously learning new technlogies.
+Hi, I'm Diego Marrs! I'm a software engineer from Camas, WA. I currently work at edX as an web development instructional specialist, and I'm also pursuing a bachelor's dergee in Software Engineering at WGU. I am passionable about building robust software that anyone can use and benefit from, whether you are a developer or a hobbyist.
 
 <h3>Technical Skills 💻</h3>
 
@@ -11,28 +11,32 @@ Hi, I'm Diego Marrs! I'm a full stack web developer from the Portland, OR area. 
 <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-grey.svg?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 <h4>📖 Frameworks & Libraries</h4>
 <div>
 <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Handlebars.js-000000.svg?style=for-the-badge&logo=handlebars.js&logoColor=white">
-<img src="https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white">
 </div>
 
 <h4>🛠️ Tools</h4>
 <div>
-<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-E0234E.svg?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/Apollo GraphQL-311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
+
+<h4>📜 Certifications</h4>
+<div>
+  <img src="https://img.shields.io/badge/CompTIA Project+-C8202F.svg?style=for-the-badge&logo=comptia&logoColor=white">
+  <img src="https://img.shields.io/badge/WGU Certificate: Front End Developer-2C4F7C.svg?style=for-the-badge&logoColor=white">
+</div>
+
 </div>
 
