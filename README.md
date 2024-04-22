@@ -2,7 +2,7 @@
 
 <h3>About Me 👨‍💻</h3>
 
-Hi, I'm Diego Marrs! I'm a software engineer from Camas, WA. I currently work at edX as an web development instructional specialist, and I'm also pursuing a bachelor's dergee in Software Engineering at WGU. I am passionable about building robust software that anyone can use and benefit from, whether you are a developer or a hobbyist.
+Hi, I'm Diego Marrs! I'm a software engineer from Camas, WA. I currently work at 2U as an web development instructional specialist, and I'm also pursuing a bachelor's dergee in Software Engineering at WGU. I am passionable about building robust software that anyone can use and benefit from, whether you are a developer or a hobbyist.
 
 <h3>Technical Skills 💻</h3>
 
