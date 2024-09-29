@@ -38,6 +38,7 @@ I currently work as an instructional specialist at edX where I teach aspiring de
 
 ## Certifications
 <div>
+  <img src="https://img.shields.io/badge/AWS Cloud Practicioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/CompTIA Project+-C8202F.svg?style=for-the-badge&logo=comptia&logoColor=white">
   <img src="https://img.shields.io/badge/WGU Certificate: Front End Developer-2C4F7C.svg?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/ITIL%20Foundation-5A45FF?style=for-the-badge">
