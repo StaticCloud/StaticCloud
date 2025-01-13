@@ -4,7 +4,7 @@
 
 ### Hello, my name is Diego Marrs. I'm a software engineer.
 
-I am an early career engineer who is currently studying Software Engineering at Western Governors University, where I continue to build upon my foundational knowledge of software development and diversify my skillset.
+I am an early career engineer who recently graduated with a Bachelor of Science in Software Engineering.
 
 I currently work as an instructional specialist at edX where I teach aspiring developers programming fundamentals, RESTful API design and implementation, designing and developing full-stack applications, and more.
 
