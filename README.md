@@ -1,4 +1,6 @@
-## About Me
+# Hello, I'm Diego Marrs 👋
+
+## About Me 🧑‍💻
 
 I am a early-career software engineer with a passion for solving business problems and bringing ambitious ideas to life.
 
@@ -6,7 +8,7 @@ I graduated with a Bachelor of Science in Software Engineering in 2024, and I cu
 
 I have experience working with C#, ASP.NET, TypeScript, Express, React, PostgreSQL, Prisma, Docker, and various AWS services. I am driven by a desire to solve complex business problems by leveraging my existing skill set, and building valuable products.
 
-## Links
+## Links 🔗
 
 ### [Portfolio](https://diegomarrs.com/)
 
