@@ -1,4 +1,4 @@
-# Hello, I'm Diego Marrs 👋
+# Yee Snaw 👋
 
 ## Links 🔗
 
